@@ -1,0 +1,6 @@
+/data/valid/**/*.csv
+/data/generated/*
+/data
+__pycache__/
+
+.DS_Store
